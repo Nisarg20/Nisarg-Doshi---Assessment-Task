@@ -2,6 +2,7 @@
 
 A Python script that converts markdown-formatted meeting notes into beautifully formatted Google Docs using the Google Docs API.
 
+## [GitHub Repo](https://github.com/Nisarg20/Nisarg-Doshi---Assessment-Task/)
 ## 🎯 Overview
 
 This tool automatically converts markdown meeting notes into professional Google Docs with proper formatting including:
